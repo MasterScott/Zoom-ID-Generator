@@ -1,4 +1,4 @@
-#ZOOMED 
+# ZOOMED 
 **A simple golang script which generates random numbers based off the lenght of zoom meeting id's**
 
 ## Preview
